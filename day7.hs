@@ -2,7 +2,6 @@
 --  Author: Bob Wall
 module AOCDay7 where
 
-import Data.Char
 import Data.List
 
 
